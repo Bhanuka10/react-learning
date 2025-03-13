@@ -1,11 +1,19 @@
-import Mychanel from "./components/mychanel/mychanel"
+import Bodycontent from "./components/Bodycontent/Bodycontent"
+import Footercontent from "./components/Footercontent/Footercontent"
+import Headcontent from "./components/Headcontent/Headcontent"
+
 
 function App() {
   
   return (
     <>
-    <h1>Hellow React</h1>
-    <Mychanel />
+    <div>
+      <Headcontent />
+      <Bodycontent />
+      <Footercontent />
+    </div>
+  
+    
     </>
     )
       
