@@ -1,4 +1,5 @@
 import React from 'react'
+import './Headcontent.css'
 
 function Headcontent() {
   return (

@@ -1,4 +1,5 @@
 import React from 'react'
+import './Bodycontent.css'
 
 function Bodycontent() {
   return (
