@@ -1,0 +1,10 @@
+.Link{
+    text-decoration: none;
+    
+    color: rgb(6, 53, 53);
+    font-size: 20px;
+    
+}
+.nav{
+    display: flex;
+}
